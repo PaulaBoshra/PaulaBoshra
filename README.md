@@ -29,6 +29,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-41AA1F?style=flat&logo=godot-engine&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ## 🚀 Experience
 ### [Samsung Innovation Campus] - IoT Intern - [8/2023 - 10/2023]
