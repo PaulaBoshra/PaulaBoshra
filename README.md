@@ -33,12 +33,15 @@
 
 ## 🚀 Experience
 ### [Samsung Innovation Campus] - IoT Intern - [8/2023 - 10/2023]
-- Introduction to IoT & IoT platform.
-- Linux.
-- Git & GitHub.
-- Raspberry Pi.
-- Networks Fundamentals.
-- Intro to Big Data & Data visualization.
+- Introduction to IoT & IoT platform
+- Linux 101
+- Version Control with Git/GitHub
+- Basic circuit - Raspberry Pi configuration
+- Raspberry Pi with Python
+- Networks Fundamentals (Communication & Programming)
+- Node.js for IoT
+- Intro to Big Data & Data Visualization
+- Galaxy upcycling & Design Thinking
 
 ### [ischool] - Programming, Coding, and Robotics Instructor 
 - Basics of Web Development.
