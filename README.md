@@ -7,13 +7,18 @@
   <img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif" alt="Robots in action GIF" width="400" />
 </p>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mechatronics%20Engineer;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=440&height=45&color=0b34ba&vCenter=true&size=22"></a>
+</p>   
+
 ## About Me
 - 🤖 A Mechatronics Engineering Student at the Canadian International College - New Cairo Campus
 - 🔌 Always seeking innovative ways to solve real-world problems.
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-boshra/)
-📧 [Email me](mailto:paulaboshraatta@gmail.com)
+### 📫 Connect with me :
+<a href="https://linkedin.com/in/paula-boshra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:paulaboshraatta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## Robotics & IoT Toolbox [Tech Stack]
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -48,6 +53,4 @@
 - Basics of Artificial Intelligence.
 - Basics of Game Development.
 
-## 🌴 Hobbies & Interests
-- 🤖 Building Robots.
-- 🌐 Learning New Things.
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PaulaBoshra&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
